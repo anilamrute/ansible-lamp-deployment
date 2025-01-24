@@ -1,0 +1,14 @@
+---
+
+- name: Extract Oracle installer
+  unarchive:
+    src: "{{ oracle_installer_file }}"
+    dest: "{{ oracle_installer_path }}"
+    remote_src: yes
+  become: true
+
+- name: Run Oracle Database Installer
+  command: "{{ oracle_installer_path }}/database/runInstaller -silent -responseFile {{ oracle_installer_path }}/database/response/db_install.rsp"
+  become: true
+  become_user: "{{ oracle_user }}"
+

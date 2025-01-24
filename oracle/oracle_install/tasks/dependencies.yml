@@ -1,0 +1,15 @@
+---
+
+- name: Install Oracle dependencies
+  yum:
+    name:
+      - "binutils"
+      - "gcc"
+      - "gcc-c++"
+      - "libaio"
+      - "libaio-devel"
+      - "make"
+      - "sysstat"
+      - "unzip"
+    state: present
+

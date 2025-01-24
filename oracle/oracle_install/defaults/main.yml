@@ -1,0 +1,9 @@
+---
+
+oracle_user: "oracle"
+oracle_group: "dba"
+oracle_db_version: "19c"
+oracle_home: "/u01/app/oracle/product/{{ oracle_db_version }}/dbhome_1"
+oracle_installer_file: "database.tar.gz"
+oracle_installer_path: "/tmp/database"
+

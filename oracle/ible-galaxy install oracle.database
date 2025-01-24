@@ -1,0 +1,154 @@
+
+Found 149 roles matching your search:
+
+ Name                                                  Description
+ ----                                                  -----------
+ adelean.oracle-java                                   Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ ajeleznov.oracle-jdk                                  installs 64-bit Oracle JDK using Linux RPM package
+ alexagranov.jenkins-oracle-java                       Jenkins CI
+ alexanderjardim.oracle_jdk                            Oracle Jdk ansible role. Completely independent from package manager, so you can use it on any linux distribution.
+ alex-left.java-oracle                                 install oracle java without external repositories
+ amtega.oracle_java                                    Deploy Oracle Java
+ amtega.oracle_jdbc_connector                          Setup Oracle JDBC connector
+ andrewrothstein.java-oracle                           role for installing the Oracle Java JRE/JDK
+ andrewrothstein.java-oracle-jdk                       installs Oracle Java JDK
+ andrewrothstein.java-oracle-jre                       installs Oracle Java JRE
+ ansiblebit.oracle-java                                Role to install Oracle Java.
+ antonchernik.oracle-jdk                               Install Oracle JDK
+ ANXS.oracle-jdk                                       Installs the latest update of Oracle JDK version(s)
+ asg1612.ansible_role_oracle_instant_client            Oracle Instant Client
+ asg1612.oracle-java                                   Install oracle-java8
+ avinash6784.oracle-java                               Ansible role to install Oracle Java
+ azavea.oracle-instantclient                           An Ansible role for installing Oracle Instant Client.
+ bacanol.oracle-java                                   Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ banadiga.ansible_oracle_java                          Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ bas-ansible-roles-collection.oracle-jdk7              Installs Oracle Java Development Kit (JRE) 7
+ bashrc666.ansible-role-check_oracle_health            Check_oracle_health perl script for monitoring Oracle db
+ bcoca.oracle_java7                                    oracle-java7
+ capitanh.oraclejdk-ansible-role                       This role downloads and installs Oracle JDK 8
+ capitanh.oraclexe-ansible-role                        This role downloads and install Oracle Express Edition 11g Release 2 (version 11.2.0-1.0.x86_64)
+ ChristopherDavenport.universal-oracle-client          Universal Oracle Client Installer
+ clusterapps.oraclelm                                  Register Oracle Linux client to Oracle Linux Manager
+ codeyourinfra.oracle_java8                            Role to install Oracle Java 8
+ cybera.oraclejdk                                      Installs OracleJDK from WebUpd8 team's PPA
+ d3atiq.oracle_java10                                  An Ansible role to install and maintain the Oracle Java 10 on Ubuntu.
+ d3atiq.oracle_java8                                   An Ansible role to install and maintain the Oracle Java 8 on Ubuntu.
+ dareko.oracle_client                                  Playbook for Oracle Instant Client installation
+ datadog-galaxy.oracle_java                            OracleJava
+ deveth0.oracle-java                                   Ansible Role to install Oracle Java using the webupd8team packages on Debian
+ dfgd.oracle-java                                      Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ dfgd.oracle-sqlDeveloper                              Ensure that Oracle SQL Developer and SQLCL is installed
+ dmanto.perl-dbd-oracle                                Installs DBD::Oracle perl module
+ DovnarAlexander.ansible_oracle_java                   Oracle JDK 7/8/9 for CentOS/Ubuntu
+ ecgalaxy.oracle_instantclient                         Installs Oracle Instant Client
+ ellotheth.oracle                                      Oracle installation/configuration role
+ embedit-ansible.oracle_ee_11g                         Install Oracle 11g EE
+ embedit-ansible.oracle-tools-create_restore_point     Create Oracle Database Restore Point
+ embedit-ansible.oracle-tools-flashback                Flashback Oracle database to restore point and reset flashback
+ ewypych.oracle-mysql-repo                             Oracle MySQL Repository installation.
+ fabiohbarbosa.oracle-java-jdk                         Installs the latest update of Oracle JDK version(s)
+ fingul.oracle-11g-client                              oracle 11g client for Debian/Ubuntu.
+ fishman.oracle_java                                   Role to install Oracle Java.
+ fouadsemaan.java-oracle-jre                           installs Oracle Java JRE
+ freehck.java8-oracle                                  Oracle Java 1.8 (warn: using ppa)
+ frieder.oraclejdk                                     Ansible role to install Oracle JDK 8/9
+ gabrielke.java8-oracle                                Java8 from Oracle, using the webupd8 ppa
+ gikoluo.oracle-java                                   Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ gkarthiks.ansible_oracledb_client                     Setup Oracle DB client/library files
+ gtrafimenkov.java8-oracle                             Java 8 from Oracle, using the webupd8 ppa
+ hansnans.oracle-java                                  a small role for installing java in /opt/ and setup the alternatives
+ hypery2k.ansible_oracle_java                          Oracle JDK 8 to 13 for CentOS/Fedora/Debian/Ubuntu/Suse/MacOSX
+ idealista.oracle_instant_client_role                  Oracle Instant Client Role
+ idealista.prometheus_oracle_exporter_role             Prometheus Oracle Exporter Role
+ ilmarkerm.oracle-addnode                              This role runs addnode.sh in case of Oracle RAC installation.
+ ilmarkerm.oracle-deinstall                            Role to deinstall Oracle RDBMS homes
+ ilmarkerm.oracle-home-management                      This is a main metadata role to pull in all dependent roles needed for full Oracle RDBMS home management solution.
+ ilmarkerm.oracle-install                              Install and patch Oracle RDBMS homes
+ ilmarkerm.oracle-install-lock                         Role to determine if current host is the master in RAC cluster and could perform the initial software install
+ ilmarkerm.oracle-meta                                 Role to maintain metadata for Oracle RDBMS home management
+ isaackehle.ansible_oracle_client                      Setup Oracle client/library files
+ jeqo.oracle-database                                  Ansible Role to install Oracle Database software and create and configure instances and listeners.
+ jeqo.oracle-soa                                       install and configure oracle soa suite
+ jeqo.oracle-weblogic                                  install and configure oracle weblogic server
+ jeqo.oracle-wlst                                      generate and execute wlst scripts
+ jesussteve.oracle_java                                Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ johncming.oracle                                      johncming
+ jtyr.oracle_java                                      Ansible role which installs a particulat version of Oracle Java
+ JulianArevalo.oracle-java                             Install Oracle Java JDK
+ jvalentini.oracle-client                              Playbook for Oracle Instant Client installation
+ KAMI911.java_oracle_jdk11                             Ansible role for configuring Oracle Java 11 or Server JRE with local installation support
+ KAMI911.java_oracle_jdk8                              Ansible role for configuring Oracle Java 8 or Server JRE with local installation support
+ kaos2oak.oracle_java                                  Install Oracle Java
+ kaos2oak.oracle_repo                                  Add Oracle Repository
+ klewan.ansible_role_oracle                            Oracle Common Role
+ klewan.ansible_role_oracle_asm_metadata               Backup ASM metadata
+ klewan.ansible_role_oracle_download_patches           Download patches from My Oracle Support directly to the server
+ klewan.ansible_role_oracle_gatherinfo_databases       Discover Oracle Homes and gather data about registered Oracle databases
+ klewan.ansible_role_oracle_gatherinfo_dbconsole       Discover Oracle DB Console services (both standalone and registered in Grid Infrastructure)
+ klewan.ansible_role_oracle_gatherinfo_gi              Discover Oracle Grid Home and gather Grid Infrastructure data
+ klewan.ansible_role_oracle_gatherinfo_listener        Discover Oracle Listeners (both standalone and registered in Grid Infrastructure)
+ klewan.ansible_role_oracle_homes_backup               Backup ORACLE_HOME
+ klewan.ansible_role_oracle_host_cron                  Manage Oracle Database Server cron
+ klewan.ansible_role_oracle_manage_dbstate             Manage Oracle Database state (startup/shutdown)
+ klewan.ansible_role_oracle_manage_patches             Manage Oracle patches
+ kosalaat.oracle_install                               Ansible playbook to install Oracle Database 11g and 12c
+ kouji-kojima-ansible.el7-oracle12cR2                  el7-oracle12cR2
+ malk.java8-oracle                                     Java8 from Oracle, using the webupd8 ppa
+ markwatson.java8-oracle                               Java8 from Oracle, using the webupd8 ppa
+ medzin.oracle-jdk                                     Oracle JDK Ansible role
+ mhv2109.oracle-instantclient-container                Add Oracle Instantclient to Debian container
+ mm0.oracle-service-bus                                Ansible Role that installs Oracle Service Buss on RHEL/Centos using locally provided installation package and JDK
+ mrlesmithjr.oracle-java8                              Installs Oracle Java8
+ mtnsat.ansible-oracle-java                            Ansible Role to install Oracle Java using the webupd8team packages on Debian
+ napramirez.java-oracle                                A lean and quick Ansible role to install Oracle Java in Vagrant machines.
+ nhbond.oracle_java                                    Role to install Oracle Java 8
+ NLCR.java-oracle                                      Simple to role to install Oracle Java RPM from URL
+ peopledoc.oracle-java                                 Install oracle java
+ nwoetzel.java-oracle                                  Installer for java-oracle up to 1.8.
+ Oefenweb.oracle_java                                  Set up (the latest or a specific update version of) oracle-java in Ubuntu systems
+ pari-.oracle-java8                                    An Ansible role which installs and configures Oracle's Java /[89]/
+ pescobar.java_oracle                                  Install the Java JDK tarball from Oracle
+ pgkehle.oracle-client                                 Setup Oracle client/library files
+ php-coder.oraclejdk                                   Installs OracleJDK from WebUpd8 team's PPA
+ praseodym.oracle-jvm                                  Ansible Oracle JVM for Debian and Ubuntu using webupd8team PPA
+ qianka.java-oracle                                    (an ansible role) install JDK from oracle
+ radamanth.java-oracle-ansible                         Small ansible role designed to install oracle java  on an ubuntu server
+ raffienficiaud.atlassian-bambooagent-oracle-java-role Installs Oracle Java from an installer and additional certificates, for running Atlassian Bamboo agents
+ rdwinter2.oracledb_preinstall                         A role to prepare for an Oracle Enterprise Database install
+ redtail83.oraclejdk8                                  OracleJDK8 for Linux
+ remotekernel.ansible_oracle_java                      Ansible role to install Oracle Java
+ Rheinwerk.oracle_jdk                                  Installs an Oracle JDK on Ubuntu and optionally makes it default
+ samloh84.oracle-java-jdk                              Oracle Java JDK
+ smiller171.packer-oracle                              RedHat/CentOS configuration for Packer.
+ smsilva.ansible_oracle_xe                             your description
+ srsp.oracle-java                                      Oracle JDK 8 to 13 for CentOS/Fedora/Debian/Ubuntu/Suse/MacOSX
+ staylorx.oracle-jdk                                   Ansible role for installing one (or more!) Oracle JDK homes, and JCE on Redhat.
+ stuvusIT.oracle-java                                  Install Oracle Java
+ sysco-middleware.oracle-database                      Ansible Role to install Oracle Database software and create and configure instances and listeners.
+ sysco-middleware.oracle-database-instance             Ansible role to create and configure Oracle Database instances.
+ sysco-middleware.oracle-database-instant-client       Install and configure Oracle Database Instant Client
+ sysco-middleware.oracle-database-sql                  generate and execute oracle database sql scripts
+ sysco-middleware.oracle-soa                           Install and configure Oracle SOA Suite
+ sysco-middleware.oracle-weblogic                      install and configure oracle weblogic server
+ sysco-middleware.oracle-wlst                          generate and execute wlst scripts
+ tekniqueltd.oracle-java                               Oracle JDK 8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ thomashesry.ansible_java_oracle                       role for installing the Oracle Java JRE/JDK
+ thomashesry.ansible_java_oracle_jre                   installs Oracle Java JRE
+ thomasX.oracleJDK                                     ansible role for installing an oracle JDk on ubuntu xenial
+ timog.oracle-server-jre                               Role to install Oracle Java JRE or Server JRE only (without JDK).
+ triviadata.oracle_java_jce                            Ansible role installing Oracle JAVA JCE for Linux
+ UdelaRInterior.oracle_java                            Role to install Oracle Java.
+ webarchitect609.oracle_java                           Installs Oracle Java via ppa repository.
+ William-Yeh.oracle_java                               Oracle JDK 7/8 for CentOS/Debian/Ubuntu/Suse/MacOSX
+ wtanaka.oracle-java                                   Install oracle-java
+ wybczu.oracle_jdk                                     Install Oracle JDK
+ yannallandit.rsf-oracle-prerequisites                 Presales consultant
+ zicklam.oracle_client                                 Ansible Playbook for Oracle Runtime Client (v12.2.0) installation
+ dimmaryanto93.oracle_java                             Install oracle-jdk from local to remote server using ansible
+ jasperyue.oracle_java                                 Oracle JDK 7/8/9/10 for Centos, Only support java package provided by user
+ lean_delivery.oracle_db                               Lean Delivery Oracle Database install
+ lean_delivery.oracle_instant_client                   Lean Delivery Oracle Instant Client install
+ udelarinterior.oracle_java                            Role to install Oracle Java.
+ robertdebock.oracle_instant_client                    Install oracle_instant_client on your system.
+ robertdebock.vault_oracle_plugin                      Installs the vault_plugin-database-oracle on your system.
+ walidsa3d.oracle_java                                 Install Oracle Java on ubuntu
